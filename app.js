@@ -1,3 +1,2 @@
-//new features added -color
-//new features added -background colour
+//new features added -color.
 
